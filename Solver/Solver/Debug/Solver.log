@@ -1,0 +1,5 @@
+﻿  Solver.c
+c:\users\erin_\source\repos\sudokusolver\solver\solver\solver.c(16): warning C4101: 'box_num': unreferenced local variable
+c:\users\erin_\source\repos\sudokusolver\solver\solver\solver.c(16): warning C4101: 'row_num': unreferenced local variable
+c:\users\erin_\source\repos\sudokusolver\solver\solver\solver.c(16): warning C4101: 'col_num': unreferenced local variable
+  Solver.vcxproj -> C:\Users\erin_\source\repos\SudokuSolver\Solver\Debug\Solver.exe
